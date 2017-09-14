@@ -121,7 +121,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef MV_ASMLANGUAGE
 /* typedefs */
 
-typedef char MV_8;
+typedef signed char MV_8;
 typedef unsigned char MV_U8;
 
 typedef int MV_32;
